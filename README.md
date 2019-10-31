@@ -20,7 +20,7 @@ For Transformer:
   * Hidden_dimension = 512
   * Number of layers = 6
   * Number of heads = 8
-  * Positin
+  * Position feedforward layer dimension = 2048
   * Dropout = 0.1
   
   
