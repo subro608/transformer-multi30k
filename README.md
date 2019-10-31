@@ -15,6 +15,7 @@ For Conv-seq2seq model:
   * Decoder kernel size = 3
   * Encoder dropout = 0.25
   * Decoder dropout = 0.25
+  
 For Transformer:
   * Hidden_dimension = 512
   * Number of layers = 6
